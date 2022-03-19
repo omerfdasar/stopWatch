@@ -33,5 +33,3 @@ At the end of the this coding challenge, students will be able to;
 
 -Write javaScript code
   - Make a functional stopwatch.
-
-<center> ⌛ Happy Coding  ✍ </center>
