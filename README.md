@@ -8,10 +8,6 @@
 - Prepare a web page include functional stopwatch.
 
 
-## Submit
-
-- Students will push the solutions to their own public GitHub repos.
-
 ## Learning Outcomes
 
 At the end of the this coding challenge, students will be able to;
